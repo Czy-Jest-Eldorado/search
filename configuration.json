@@ -1,0 +1,214 @@
+{
+  "non-separator-tokens": [
+    "#",
+    "+",
+    ".",
+    "/"
+  ],
+  "typo-tolerance-disabled-for": [
+    "c",
+    "C",
+    "c++",
+    "C++",
+    "c#",
+    "C#",
+    "r",
+    "R"
+  ],
+  "ranking-rules": [
+    "words",
+    "sort",
+    "typo",
+    "proximity",
+    "attribute",
+    "exactness"
+  ],
+  "stopwords": [],
+  "synonyms": {
+    "ai/ml": [
+      "machine learning",
+      "artificial intelligence",
+      "sztuczna inteligencja"
+    ],
+    "angielski": [
+      "english",
+      "jezyk angielski",
+      "język angielski"
+    ],
+    "niemiecki": [
+      "german",
+      "jezyk niemiecki",
+      "język niemiecki"
+    ],
+    "aws": [
+      "amazon web services"
+    ],
+    "backend": [
+      "back-end",
+      "back end"
+    ],
+    "bi": [
+      "business intelligence",
+      "business analytics",
+      "data analytics"
+    ],
+    "data lake": [
+      "datalake",
+      "data warehouse"
+    ],
+    "ci/cd": [
+      "continuous integration",
+      "continuous deployment",
+      "cicd"
+    ],
+    "elk": [
+      "elasticsearch",
+      "elk stack"
+    ],
+    "frontend": [
+      "front",
+      "front-end",
+      "front end"
+    ],
+    "fullstack": [
+      "full-stack",
+      "full stack"
+    ],
+    "gcp": [
+      "google cloud",
+      "google cloud platform"
+    ],
+    "hybrid": [
+      "hybryda",
+      "hybrydowa",
+      "hybrydowy",
+      "praca hybrydowa",
+      "praca hybrydowo"
+    ],
+    "intern": [
+      "praktykant",
+      "praktykantka",
+      "praktyki",
+      "staż",
+      "stażysta",
+      "stażystka"
+    ],
+    "iso 27001": [
+      "iso27001",
+      "iso/iec 27001"
+    ],
+    "java": [],
+    "javascript": [
+      "js",
+      "java script"
+    ],
+    "dżejson": [
+      "codetwo",
+      "hrejterzy"
+    ],
+    "junior": [
+      "młodszy",
+      "mlodszy",
+      "młodsza",
+      "mlodsza"
+    ],
+    "kubernetes": [
+      "k8s"
+    ],
+    "laravel": [
+      "larwa"
+    ],
+    "lead": [
+      "lider",
+      "liderka",
+      "team lead",
+      "team leader",
+      "teamleader",
+      "teamlead"
+    ],
+    "linux": [],
+    "mid": [
+      "regular"
+    ],
+    "mobile": [
+      "mobilki",
+      "mobile apps",
+      "mobile applications",
+      "mobile development"
+    ],
+    "mssql": [
+      "ms sql",
+      "microsoft sql server"
+    ],
+    "office": [
+      "biuro",
+      "w biurze",
+      "biurowa",
+      "biurowy",
+      "praca w biurze",
+      "stacjonarnie",
+      "stacjonarna",
+      "stacjonarny"
+    ],
+    "pm": [
+      "project manager",
+      "project management",
+      "menedżer projektu",
+      "menedzer projektu",
+      "menedżer projektów",
+      "menedzer projektów"
+    ],
+    "qa": [
+      "quality assurance"
+    ],
+    "remote": [
+      "zdalnie",
+      "zdalna",
+      "zdalny",
+      "praca zdalna",
+      "praca zdalnie"
+    ],
+    "ruby on rails": [
+      "rails",
+      "ror"
+    ],
+    "senior": [
+      "starszy",
+      "starsza",
+      "expert"
+    ],
+    "unreal engine": [
+      "ue4",
+      "unreal"
+    ],
+    "uop": [
+      "umowa o pracę",
+      "umowa o prace"
+    ],
+    "uz": [
+      "umowa zlecenie",
+      "umowa zlecenia",
+      "zlecenie"
+    ],
+    "head of": [
+      "szef",
+      "szefowa",
+      "kierownik",
+      "kierowniczka"
+    ],
+    "c++": [
+      "cpp"
+    ],
+    "c#": [
+      "c sharp",
+      "csharp"
+    ],
+    "architect": [
+      "architekt",
+      "architektka"
+    ],
+    "go": [
+      "golang"
+    ]
+  }
+}
